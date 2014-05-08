@@ -11,4 +11,4 @@ It saves the last time you Synced, goes through each commit and process it indiv
 - Submit the changelist
 
 
-## ::warning:: This is a work in progress and not production ready ##
+## :warning: This is a work in progress and not production ready ##
