@@ -1,6 +1,6 @@
 # Git to Perforce Synchronization #
 
-If you use git lcoally but for your corporation you have to have all you commits in Perforce, this tools is going to help you.
+If you use git locally but for your corporation you have to have all you commits in Perforce, this tools is going to help you.
 It assumes all the work is done in git (and its remotes), so there is no sync back from Perforce to git. 
 It saves the last time you Synced, goes through each commit and process it individually: 
 
